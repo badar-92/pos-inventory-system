@@ -6,6 +6,16 @@ A comprehensive and feature-rich Point of Sale (POS) system built with PHP, desi
 ![MySQL](https://img.shields.io/badge/MySQL-5.7+-orange.svg)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-purple.svg)
 ![Security](https://img.shields.io/badge/Security-Hardened-green.svg)
+![Live Demo](https://img.shields.io/badge/Demo-Online-brightgreen.svg)
+
+## 🌐 Live Demo
+
+**Experience the system live:**
+- 🔗 [**Live POS System**](https://mystorebybadar.infinityfreeapp.com/pos_system/index.php)
+
+**Demo Credentials:**
+- **Username:** `admin` / **Password:** `password` (Check system for current credentials)
+- **Role:** Administrator with full access
 
 ## 🎯 Features
 
@@ -76,6 +86,7 @@ A comprehensive and feature-rich Point of Sale (POS) system built with PHP, desi
 
 5. **Access the System**
    - Navigate to `http://yourdomain.com/pos_system`
+   - **Or use our live demo:** [https://mystorebybadar.infinityfreeapp.com/pos_system/index.php](https://mystorebybadar.infinityfreeapp.com/pos_system/index.php)
    - Default admin login: Use credentials from database setup
 
 ## 👥 User Roles & Permissions
@@ -223,6 +234,19 @@ pos_system/
 - Input sanitization - XSS prevention
 - Session management - User authentication
 
+## 🌐 Live Deployment
+
+**Current Hosting:**
+- **URL:** [https://mystorebybadar.infinityfreeapp.com/pos_system/index.php](https://mystorebybadar.infinityfreeapp.com/pos_system/index.php)
+- **Provider:** InfinityFree
+- **Status:** ✅ Active and Running
+
+**Demo Access:**
+- Test all features with demo account
+- Explore different user roles
+- Experience real-time POS operations
+- View sample reports and analytics
+
 ## 🐛 Known Issues & Solutions
 
 **Barcode Generation**
@@ -273,8 +297,10 @@ This POS system is proprietary software developed for Badar Mart. Unauthorized d
 
 ---
 
+**🚀 Live Demo Available:** [Badar Mart](https://mystorebybadar.infinityfreeapp.com/pos_system/index.php)
+
 **Built with ❤️ for Badar Mart**
 
 For support and inquiries, contact the system administrator.
 
-*Enjoy efficient retail management! 🏪✨*
+*Experience modern retail management! 🏪✨*
