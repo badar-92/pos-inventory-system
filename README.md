@@ -85,8 +85,8 @@ A comprehensive and feature-rich Point of Sale (POS) system built with PHP, desi
    - Configure `CSRF_TOKEN_SECRET` for security
 
 5. **Access the System**
-   - Navigate to `http://yourdomain.com/pos_system`
-   - **Or use our live demo:** [https://mystorebybadar.infinityfreeapp.com/pos_system/index.php](https://mystorebybadar.infinityfreeapp.com/pos_system/index.php)
+   - Navigate to `http://mystorebybadar.inginiyyfreeapp..com/pos_system`
+   - **Or use our live demo:** [Badar Mart POS System](https://mystorebybadar.infinityfreeapp.com/pos_system/index.php)
    - Default admin login: Use credentials from database setup
 
 ## 👥 User Roles & Permissions
@@ -237,7 +237,7 @@ pos_system/
 ## 🌐 Live Deployment
 
 **Current Hosting:**
-- **URL:** [https://mystorebybadar.infinityfreeapp.com/pos_system/index.php](https://mystorebybadar.infinityfreeapp.com/pos_system/index.php)
+- **URL:** [Badar Mart POS System](https://mystorebybadar.infinityfreeapp.com/pos_system/index.php)
 - **Provider:** InfinityFree
 - **Status:** ✅ Active and Running
 
